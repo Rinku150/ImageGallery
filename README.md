@@ -1,2 +1,2 @@
-# ImageGallery
-A project to manage images
+# website
+A project to learning
